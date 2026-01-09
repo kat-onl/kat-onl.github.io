@@ -1,0 +1,4 @@
+baseURL = 'https://kat.onl/'
+languageCode = 'en-us'
+title = 'Kat, online'
+theme = 'dead-simple'
