@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kat&#39;s Site</title>
-    <link>https://kat.onl/tags/</link>
+    <link>https://katis.online/tags/</link>
     <description>Recent content in Tags on Kat&#39;s Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://kat.onl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://katis.online/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

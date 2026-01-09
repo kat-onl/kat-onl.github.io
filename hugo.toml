@@ -1,4 +1,4 @@
-baseURL = 'https://kat.onl/'
+baseURL = 'https://katis.online/'
 languageCode = 'en-us'
 title = "Kat's Site"
 theme = 'dead-simple'
