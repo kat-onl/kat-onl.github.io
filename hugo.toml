@@ -2,3 +2,6 @@ baseURL = 'https://kat.onl/'
 languageCode = 'en-us'
 title = "Kat's Site"
 theme = 'dead-simple'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
